@@ -9,14 +9,14 @@ Product Class has entitites namely:
 2)Name  
 3)Price  
 
-Item Class has entitites namely:
-1)Product 
-2)Quantity 
-3)Price (total) 
+Item Class has entitites namely:  
+1)Product  
+2)Quantity  
+3)Price (total)  
 
-Cart Class has entitites namely:
-1)Items 
-2)Total 
+Cart Class has entitites namely:  
+1)Items  
+2)Total  
 
 Mapping: 
 There is a 1:1 mapping between Product and Item that is each Item will refer to one unique Product 
