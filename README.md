@@ -4,10 +4,10 @@ OOPS is used for creating classes and objects
 
 This is Backend Implementation of Shopping-Cart where the user can select from a list of Products and add it to the cart and subsequently checkout from shopping
 
-Product Class has entitites namely: 
-1)Id 
-2)Name 
-3)Price 
+Product Class has entitites namely:  
+1)Id  
+2)Name  
+3)Price  
 
 Item Class has entitites namely:
 1)Product 
